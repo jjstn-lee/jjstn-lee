@@ -2,6 +2,16 @@
 i'm justin, a software engineer passionate about creating **scalable applications**, **beautiful interfaces**, and **meaningful user experiences**.  
 ---
 
+## featured projects
+
+some of my most recently completed (or close to completed) projects! :)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Discover Similar** | Music recommendation engine based on natural language descriptions (i.e, "Daniel Caesar but faster") | React, Next.js, Gemini LLM |
+| **5 Stack ** | Discord bot that helps me and my friends plan League of Legends games | AWS, Docker, Discord.py |
+| **Discriminative Predictive Coding Model** | An implementation and analysis of the discriminative predictive coding model | Python, NGC-Learn |
+
 ## 🛠️ Tech & Tools  
 
 <p align="left">
@@ -21,7 +31,6 @@ i'm justin, a software engineer passionate about creating **scalable application
 
   <!-- Databases & Ops -->
   <img src="https://img.shields.io/badge/PostgreSQL-323E48?style=for-the-badge&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/MongoDB-008080?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img src="https://img.shields.io/badge/AWS-323E48?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Docker-008080?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
