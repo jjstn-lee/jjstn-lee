@@ -1,5 +1,5 @@
 ## 🚀 about me  
-i'm justin, a software engineer passionate about creating **scalable applications**, **beautiful interfaces**, and **meaningful user experiences**.  
+i'm justin, a software engineer. current obsessions include kendo, dune, and mario kart.
 ---
 
 ## 🌟 featured projects
