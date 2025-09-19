@@ -53,4 +53,3 @@ some of my most recently completed (or close to completed) projects! :)
   <img src="https://img.shields.io/badge/Windows-008080?style=for-the-badge&logo=windows&logoColor=00A4EF" />
   <img src="https://img.shields.io/badge/Supabase-323E48?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
----
