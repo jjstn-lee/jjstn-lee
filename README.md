@@ -11,7 +11,7 @@ some of my most recently completed (or close to completed) projects! :)
 |---------|-------------|------|
 | **discover similar** | music recommendation engine based on natural language descriptions (i.e, "Daniel Caesar but faster") | react, next.js, gemini LLM |
 | **5 stack** | discord bot that helps me and my friends plan League of Legends games | aws, docker, discord.py |
-| **discriminative predictive coding model** | An implementation and analysis of the discriminative predictive coding model | python, ngc-learn |
+| **discriminative predictive coding model** | an implementation and analysis of the discriminative predictive coding model | python, ngc-learn |
 
 ## 🛠️ skills 
 
